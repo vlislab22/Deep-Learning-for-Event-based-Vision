@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO -->
 
 <p align="center">
-  <h2 align="center">Awesome-Deep-Learning-Technologies-in-Events</h2>
+  <h2 align="center">Deep Learning for Event-based Vision: A Comprehensive Survey and Benchmarks</h2>
   <p align="center">A curated list of resources for deep learning with events camera.
     <br />
     <br />
