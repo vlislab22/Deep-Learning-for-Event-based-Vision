@@ -77,6 +77,7 @@
 ## 1.1 Event Count Image
 | Publication | Title                                                                                          | Highlight                                                                      |
 | ----------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| IEEE Access 2023   | CSTR: A Compact Spatio-Temporal Representation for Event-Based Vision       | Stacking based on timestamps and polarity            |
 | IJCNN 2022   | Accurate and Efficient Frame-based Event Representation for AER Object Recognition       | Stacking based on timestamps            |
 | Trans. Circuits. Syst. Video. Technol. 2022   | EDFLOW: Event driven optical flow camera with keypoint detection and adaptive block matching       | Stacking based on timestamps and polarity           |
 | IJCV 2021   | Learning to Reconstruct HDR Images from Events, with Applications to Depth and Flow Prediction | Stacking based on time (SBT) and stacking based on the number of events (SBN). |
