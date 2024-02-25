@@ -331,6 +331,7 @@
 ## 3.3 Event Guided Image / Video HDR
 | Publication | Title                                                                                                                            | Highlight                  |
 | ----------- | -------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
+| CVPR 2023   | Learning event guided high dynamic range video reconstruction                                                                    |                            |
 | CVPR 2022   | Multi-Bracket High Dynamic Range Imaging With Event Cameras                                                                      |                            |
 | CVPR 2021   | Learning To Reconstruct High Speed and High Dynamic Range Videos From Events                                                     |                            |
 | IJCV 2021   | Learning to Reconstruct HDR Images from Events, with Applications to Depth and Flow Prediction                                   |                            |
