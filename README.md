@@ -371,9 +371,14 @@
 ## 3.6 Depth estimation
 | Publication | Title                                                               | Highlight |
 | ----------- | ------------------------------------------------------------------- | --------- |
+| TCSVT 2022  | Unsupervised Deep Event Stereo for Depth Estimation |           |
+| CVPR 2022   | Discrete time convolution for fast event-based stereo |           |
 | ICCV 2021   | Event-Intensity Stereo: Estimating Depth by the Best of Both Worlds |           |
+| RAL 2021    | Combining Events and Frames Using Recurrent Asynchronous Multimodal Networks for Monocular Depth Prediction |           |
 | 3DV 2020    | Learning Monocular Dense Depth from Events                          |           |
-| ICCV 2021   | Event-Intensity Stereo: Estimating Depth by the Best of Both Worlds |           |
+| ICCV 2019   | Learning an Event Sequence Embedding for Dense Event-Based Deep Stereo |           |
+
+
 
 # 4 Domain Specific
 
