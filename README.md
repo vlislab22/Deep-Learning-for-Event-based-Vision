@@ -77,8 +77,17 @@
 ## 1.1 Event Count Image
 | Publication | Title                                                                                          | Highlight                                                                      |
 | ----------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| IJCV 2021   | Learning to Reconstruct HDR Images from Events, with Applications to Depth and Flow Prediction | stacking based on time (SBT) and stacking based on the number of events (SBN). |
+| IJCNN 2022   | Accurate and Efficient Frame-based Event Representation for AER Object Recognition       | Stacking based on timestamps            |
+| Trans. Circuits. Syst. Video. Technol. 2022   | EDFLOW: Event driven optical flow camera with keypoint detection and adaptive block matching       | Stacking based on timestamps and polarity           |
+| IJCV 2021   | Learning to Reconstruct HDR Images from Events, with Applications to Depth and Flow Prediction | Stacking based on time (SBT) and stacking based on the number of events (SBN). |
+| ECCV 2020   | Learning to exploit multiple vision modalities by using grafted network       | Stacking based on number of events            |
+| ECCV 2020   |Event-based asynchronous sparse convolutional network      | Stacking based on number of events            |
+| RAL 2020   | MAE: Adaptive Motion-Agnostic Encoder for Event-Based Object Classification       | Stacking based on timestamps            |
+| CVPR 2019   | EV-Gait: Event-based robust gait recognition using dynamic vision sensors       | Stacking based on timestamps and polarity           |
+| BMVC 2018   | Adaptive time-slice block-matching opticalflow algorithm for dynamic vision sensors       | Stacking based on timestamps and polarity           |
+| CVPR 2018   | Event-Based High Dynamic Range Image and Very High Frame Rate Video Generation Using Conditional Generative Adversarial Networks       | Stacking based on timestamps            |
 | IROS 2018   | The multi vehicle stereo event camera dataset: An event camera dataset for 3D perception       | Per polarity sum                                                               |
+| CVPR 2018   | Event-based vision meets deep learning on steering prediction for self-driving cars       | Per polarity sum                                                               |
 ## 1.2 Event Voxel Grids
 | Publication | Title                                                                                                  | Highlight |
 | ----------- | ------------------------------------------------------------------------------------------------------ | --------- |
