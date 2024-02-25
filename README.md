@@ -350,6 +350,9 @@
 
 | Publication | Title                                                                                                | Highlight |
 | ----------- | ---------------------------------------------------------------------------------------------------- | --------- |
+| TCI 2023   | Neuromorphic Imaging With Density-Based Spatiotemporal Denoising                                 |    |
+| T.Multimedia 2023   | E-MLB: Multilevel Benchmark for Event-Based Camera Denoising                                 | Benchmark   |
+| TAPMI 2022   | Low Cost and Latency Event Camera Background Activity Denoising                                 | Low Cost   |
 | CVPR 2021   | EventZoom: Learning To Denoise and Super Resolve Neuromorphic Events                                 | Denoise   |
 | CVPR 2020   | Joint Filtering of Intensity Images and Neuromorphic Events for High-Resolution Noise-Robust Imaging |           |
 
