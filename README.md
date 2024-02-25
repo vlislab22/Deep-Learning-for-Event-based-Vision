@@ -373,7 +373,10 @@
 | ----------- | ------------------------------------------------------------------- | --------- |
 | TCSVT 2022  | Unsupervised Deep Event Stereo for Depth Estimation |           |
 | CVPR 2022   | Discrete time convolution for fast event-based stereo |           |
+| CVPR 2022   | Stereo Depth from Events Cameras: Concentrate and Focus on the Future |           |
+| ECCV 2022   | Selection and Cross Similarity for Event-Image Deep Stereo |           |
 | ICCV 2021   | Event-Intensity Stereo: Estimating Depth by the Best of Both Worlds |           |
+| IROS 2021   | Accurate depth estimation from a hybrid event-rgb stereo setup |           |
 | RAL 2021    | Combining Events and Frames Using Recurrent Asynchronous Multimodal Networks for Monocular Depth Prediction |           |
 | 3DV 2020    | Learning Monocular Dense Depth from Events                          |           |
 | ICCV 2019   | Learning an Event Sequence Embedding for Dense Event-Based Deep Stereo |           |
