@@ -372,6 +372,8 @@
 | Publication | Title                                                               | Highlight |
 | ----------- | ------------------------------------------------------------------- | --------- |
 | ICCV 2021   | Event-Intensity Stereo: Estimating Depth by the Best of Both Worlds |           |
+| 3DV 2020    | Learning Monocular Dense Depth from Events                          |           |
+| ICCV 2021   | Event-Intensity Stereo: Estimating Depth by the Best of Both Worlds |           |
 
 # 4 Domain Specific
 
