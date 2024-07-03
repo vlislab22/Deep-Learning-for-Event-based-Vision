@@ -183,9 +183,10 @@
 | CVPR 2019   | Events-to-Video: Bringing Modern Computer Vision to Event Cameras                                                                                  |           |
 | IJCV 2018   | Real-Time Intensity-Image Reconstruction for Event Cameras Using Manifold Regularisation                                                           |           |
 
-### (1) Reconstruction and SR
+### (1) Reconstruction and Super-resolution
 | Publication         | Title                                                                                                                            | Highlight                                    |
 | ------------------- | -------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| CVPR 2024           | Bilateral Event Mining and Complementary for Event Stream Super-Resolution                                                       |                                              |
 | ICCV 2021           | EvIntSR-Net: Event Guided Multiple Latent Frames Reconstruction and Super-resolution                                             | Latent frame reconstruction; MISR            |
 | ECCV 2020           | Event Enhanced High-Quality Image Recovery                                                                                       | eSL-Net; Sparse learning                     |
 | CVPR 2020           | Joint Filtering of Intensity Images and Neuromorphic Events for High-Resolution Noise-Robust Imaging                             | GEF; Joint filtering                         |
@@ -204,12 +205,14 @@
 
 | Publication | Title                                                                                                                               | Highlight |
 | ----------- | ----------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| NeurIPS 2024| Unsupervised Optical Flow Estimation with Dynamic Timing Representation for Spike Camera                                            |           |
+| TPAMI 2024  | Dense Continuous-Time Optical Flow From Event Cameras                                                                               |           |
 | AAAI 2023   | Self-Supervised Joint Dynamic Scene Reconstruction and Optical Flow Estimation for Spiking Camera                                   |           |
 | ICRA 2023   | Adaptive-spikenet: event-based optical flow estimation using spiking neural networks with learnable neuronal dynamics               |           |
 | ICRA 2023   | Improved Event-Based Dense Depth Estimation via Optical Flow Compensation                                                           |           |
 | ICASSP 2023 | Spike-Based Optical Flow Estimation Via Contrastive Learning                                                                        |           |
-| CVPR 2023   | Live Demonstration: ANN vs SNN vs Hybrid Architectures for Event-Based Real-Time Gesture Recognition and Optical Flow Estimation    |           |
-| CVPR 2023   | Neuromorphic Optical Flow and Real-time Implementation with Event Cameras                                                           |           |
+| CVPR 2023   | Live Demonstration: ANN vs SNN vs Hybrid Architectures for Event-Based Real-Time Gesture Recognition and Optical Flow Estimation    |           |                                        
+| CVPRW 2023  | Neuromorphic Optical Flow and Real-time Implementation with Event Cameras                                                           |           |
 | CVPR 2023   | HUGNet: Hemi-Spherical Update Graph Neural Network applied to low-latency event-based optical flow                                  |           |
 | AAAI 2022   | Spatio-temporal recurrent networks for event-based optical flow estimation                                                          |           |
 | ECCV 2022   | Secrets of event-based optical flow                                                                                                 |           |
@@ -245,6 +248,9 @@
 
 | Publication | Title                                                                            | Highlight |
 | ----------- | -------------------------------------------------------------------------------- | --------- |
+| CVPR 2024   | EventDance: Unsupervised Source-free Cross-modal Adaptation for Event-based Object Recognition | |
+| WACV 2024   | Masked Event Modeling: Self-Supervised Pretraining for Event Cameras | |
+| Arxiv 2024  | Rethinking Efficient and Effective Point-based Networks for Event Camera Classification and Regression: EventMamba |  |
 | T-PAMI 2022 | Time-Ordered Recent Event (TORE) Volumes for Event Cameras |  |
 | Arxiv 2022  | Event Transformer                 |  |
 | Arxiv 2022  | Exploiting Spatial Sparsity for Event Cameras with Visual Transformers                   |  |
@@ -273,6 +279,11 @@
 ## 2.4 Detection
 | Publication | Title                                                                                                             | Highlight |
 | ----------- | ----------------------------------------------------------------------------------------------------------------- | --------- |
+| ICRA 2024   | Chasing Day and Night: Towards Robust and Efficient All-Day Object Detection Guided by an Event Camera            |           |
+| TPAMI 2023  | Sodformer: Streaming object detection with transformer using events and frames                                    |           |
+| CVPR 2023   | Recurrent Vision Transformers for Object Detection With Event Cameras                                             |           |
+| ICRA 2023   | RGB-Event Fusion for Moving Object Detection in Autonomous Driving                                                |           |
+| AAAI 2023   | Dual Memory Aggregation Network for Event-Based Object Detection with Learnable Representation                    |           |
 | IROS 2018   | Towards Event-Driven Object Detection with Off-the-Shelf Deep Learning                                            |           |
 | CVPR 2018   | Pseudo-Labels for Supervised Learning on Dynamic Vision Sensor Data, Applied to Object Detection Under Ego-Motion |           |
 | ACCVW 2018  | PCA-RECT: An Energy-Efficient Object Detection Approach for Event Cameras                                         |           |
@@ -293,6 +304,10 @@
 ## 2.5 Segmentation
 | Publication | Title                                                                                                                          | Highlight |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------ | --------- |
+| RAL 2024    | EventASEG: An Event-Based Asynchronous Segmentation of Road With Likelihood Attention                                          |            |
+| WACV 2024   | HALSIE: Hybrid Approach to Learning Segmentation by Simultaneously Exploiting Image and Event Modalities                       |            |
+| TIP 2023    | Event-Based Semantic Segmentation With Posterior Attention                                                                     |            |
+| ICCV 2023   | CMDA: Cross-Modality Domain Adaptation for Nighttime Semantic Segmentation                                                     |            |
 | CVPRW 2019  | EV-SegNet: Semantic Segmentation for Event-Based Cameras                                                                       |            |
 | ICDSP 2021  | VESS: Variable Event Stream Structure for Event-based Instance Segmentation Benchmark                                          |
 | IROS 2021   | ISSAFE: Improving Semantic Segmentation in Accidents by Fusing Event-based Data                                                |            |
@@ -409,6 +424,7 @@
 
 | Publication | Title                                                                                     | Highlight |
 | ----------- | ----------------------------------------------------------------------------------------  | --------- |
+| 3DV 2024    | 3d pose estimation of two interacting hands from a monocular event camera  | | 
 | Arxiv 2022  | EventNeRF: Neural Radiance Fields from a Single Colour Event Camera                                      |           |
 | Arxiv 2022  | Ev-NeRF: Event Based Neural Radiance Field                                                               |           |
 | Arxiv 2022  | E-NeRF: Neural Radiance Fields from a Moving Event Camera                                                |           |
@@ -428,6 +444,8 @@
 
 | Publication | Title                                                                                | Highlight  |
 | ----------- | ------------------------------------------------------------------------------------ | ---------- |
+| 3DV 2024    | 3d pose estimation of two interacting hands from a monocular event camera            | Hand Pose  |
+| CVPRW 2023  | MoveEnet: Online High-Frequency Human Pose Estimation With an Event Camera           | Human Pose |
 | Arxiv 2022  | Efficient Human Pose Estimation via 3D Event Point Cloud                             |            |
 | Arxiv 2022  | A Temporal Densely Connected Recurrent Network for Event-based Human Pose Estimation |            |
 | ICCV 2021   | EventHands: real-time neural 3D hand pose estimation from an event stream            | Hand Pose  |
@@ -474,6 +492,11 @@
 This section focuses on event-based detection/tracking tasks for Robotics implementation.
 | Publication | Title                                                        | Highlight |
 | ----------- | ------------------------------------------------------------ | --------- |
+| NeurIPS 2024 | EV-Eye: Rethinking High-frequency Eye Tracking through the Lenses of Event Cameras | DL |
+| CVPR 2024     | Event Stream-based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline | DL |
+| CVPRW 2024  | A Lightweight Spatiotemporal Network for Online Eye Tracking with Event Camera | DL |
+| CVPR 2024   | State Space Models for Event Cameras                         | DL |
+| CVPR 2024   | SD2Event:Self-supervised Learning of Dynamic Detectors and Contextual Descriptors for Event Cameras | DL |
 | RAL 2022   | EV-Catcher: High-Speed Object Catching Using Low-Latency Event-Based Neural Networks      | DL        | 
 | IEEE Robot & Automat 2021| Fast motion understanding with spatiotemporal neural networks and dynamic vision sensors |DL |
 | arxiv 2021  | EVReflex: Dense Time-to-Impact Prediction for Event-based Obstacle Avoidance.             | DL        | 
@@ -485,6 +508,7 @@ This section focuses on event-based detection/tracking tasks for Robotics implem
 Foundational Event-based SLAM (no-deep learning) for pure discussion.
 | Publication | Title                                                        | Highlight |
 | ----------- | ------------------------------------------------------------ | --------- |
+| TRO 2024    | Cross-Modal Semidense 6-DOF Tracking of an Event Camera in Challenging Conditions |  |
 | Sensor 2022 | Visual Odometry with an Event Camera Using Continuous Ray Warping and Volumetric Contrast Maximization |  no DL         |
 | CVPR-W 2021 | Comparing Representations in Tracking for Event Camera-based SLAM                          |  no DL         |
 | IEEE robot 2021 | Event-based Stereo Visual Odometry                                                     |  no DL         |
@@ -574,6 +598,7 @@ CVPR and IROS present the united framework for optical flow, depth and ego-motio
 
 | Publication   | Title                                                                                                 | Highlight    |
 | ------------- | ----------------------------------------------------------------------------------------------------- | ------------ |
+| CVPR 2024     | Event Stream-based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline   | Object Tracking | 
 | IEEE RAL 2022 | VECtor: A Versatile Event-Centric Benchmark for Multi-Sensor SLAM                                     | multi-sensor |
 | CVPR 2022     | Video to -Events: Recycling Video Datasets for Event Cameras                                          |              |
 |               | DSEC: A Stereo Event Camera Dataset for Driving Scenarios                                             |              |
