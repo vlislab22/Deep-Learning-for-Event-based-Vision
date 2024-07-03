@@ -385,6 +385,8 @@
 ## 3.6 Depth estimation
 | Publication | Title                                                               | Highlight |
 | ----------- | ------------------------------------------------------------------- | --------- |
+| ICCV 2023  | Robust Monocular Depth Estimation under Challenging Conditions |           |
+| CVPRW 2023  | Low-Latency Monocular Depth Estimation Using Event Timing on Neuromorphic Hardware |           |
 | TCSVT 2022  | Unsupervised Deep Event Stereo for Depth Estimation |           |
 | CVPR 2022   | Discrete time convolution for fast event-based stereo |           |
 | CVPR 2022   | Stereo Depth from Events Cameras: Concentrate and Focus on the Future |           |
