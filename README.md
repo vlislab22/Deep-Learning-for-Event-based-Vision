@@ -162,6 +162,13 @@
 ## 2.1 Image / Video Reconstruction
 | Publication | Title                                                                                                                                              | Highlight |
 | ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| TIP 2024    |  HyperE2VID: Improving Event-Based Video Reconstruction via Hypernetworks                                                                          |           |
+| CVPR 2024   |  Seeing Motion at Nighttime with an Event Camera                                                                                                   |           |
+| ACM MM 2023 |  Event-diffusion: Event-based image reconstruction and restoration with diffusion models                                                           |           |
+| CVPR 2023   | Sparse-E2VID: A Sparse Convolutional Model for Event-Based Video Reconstruction Trained With Real Event Noise                                      |           |
+| CVPR 2023   | EVREAL: Towards a Comprehensive Benchmark and Analysis Suite for Event-based Video Reconstruction                                                  |           |
+| CVPR 2023   | Learning event guided high dynamic range video reconstruction                                                                                      |           |
+| T-PAMI 2023 | Sensing Diversity and Sparsity Models for Event Generation and Video Reconstruction from Events                                                    |           |
 | CVPR 2021   | mage Reconstruction From Neuromorphic Event Cameras Using Laplacian-Prediction and Poisson Integration With Spiking and Artificial Neural Networks |           |
 | CVPR 2021   | Event-Based Synthetic Aperture Imaging With a Hybrid Network                                                                                       |           |
 | CVPR 2021   | Learning To Reconstruct High Speed and High Dynamic Range Videos From Events                                                                       |           |
@@ -175,10 +182,6 @@
 | T-PAMI 2019 | High Speed and High Dynamic Range Video with an Event Camera                                                                                       |           |
 | CVPR 2019   | Events-to-Video: Bringing Modern Computer Vision to Event Cameras                                                                                  |           |
 | IJCV 2018   | Real-Time Intensity-Image Reconstruction for Event Cameras Using Manifold Regularisation                                                           |           |
-| CVPR 2023   | Sparse-E2VID: A Sparse Convolutional Model for Event-Based Video Reconstruction Trained With Real Event Noise                                      |           |
-| CVPR 2023   | EVREAL: Towards a Comprehensive Benchmark and Analysis Suite for Event-based Video Reconstruction                                                  |           |
-| CVPR 2023   | Learning event guided high dynamic range video reconstruction                                                                                      |           |
-| T-PAMI 2023 | Sensing Diversity and Sparsity Models for Event Generation and Video Reconstruction from Events                                                    |           |
 
 ### (1) Reconstruction and SR
 | Publication         | Title                                                                                                                            | Highlight                                    |
